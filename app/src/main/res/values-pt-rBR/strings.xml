@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Work Out</string>
+    <string name="title_activity_add_exercise">Adicionar Exercício</string>
+    <string name="aerobic">Aeróbico</string>
+    <string name="bodybuilding">Musculação</string>
+    <string name="duration">Duração</string>
+    <string name="repetitions">Repetições</string>
+    <string name="sets">Séries</string>
+    <string name="category">Categoria</string>
+    <string name="name">Nome</string>
+    <string name="minutes">minutos</string>
+    <string name="cancel">Cancelar</string>
+    <string name="register">Salvar</string>
+    <string name="add">Adicionar</string>
+    <string name="delete">Excluir</string>
+    <string name="edit">Editar</string>
+    <string name="name_of_exercise">Nome do exercício</string>
+    <string name="of">de</string>
+    <string name="my_exercises">Meus exercícios</string>
+    <string name="info">Info</string>
+    <string name="infomation_text">Work Out é o seu diário de exercícios, onde você pode registrar seus exercícios e verificá-los depois.</string>
+    <string name="created_by">Este aplicativo foi criado por:</string>
+    <string name="date">Outubro, 2018.</string>
+    <string name="rights">Todos os direitos reservados.</string>
+    <string name="show_category">Categoria:</string>
+    <string name="show_duration">Duração:</string>
+    <string name="show_sets">Séries:</string>
+    <string name="show_repetitions">Repetições:</string>
+    <string name="show_exercise">Exercício:</string>
+    <string name="exercise">Exercício</string>
+    <string name="duration_min">Duração (min)</string>
+    <string name="preferences">Preferências</string>
+    <string name="white">Branco</string>
+    <string name="blue">Azul</string>
+    <string name="gray">Cinza</string>
+    <string name="black">Preto</string>
+    <string name="item_deleted">Item excluído</string>
+    <string name="edit_exercise">Alterar Exercício</string>
+    <string name="alter">Alterar</string>
+    <string name="error_fill_options">Erro: Preencha todas as opções.</string>
+</resources>

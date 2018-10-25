@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name" translatable="false">Work Out</string>
+    <string name="title_activity_add_exercise">Add Exercise</string>
+    <string name="aerobic">Aerobic</string>
+    <string name="bodybuilding">Bodybuilding</string>
+    <string name="duration">Duration</string>
+    <string name="repetitions">Repetitions</string>
+    <string name="sets">Sets</string>
+    <string name="category">Category</string>
+    <string name="name">Name</string>
+    <string name="minutes">minutes</string>
+    <string name="cancel">Cancel</string>
+    <string name="register">Register</string>
+    <string name="add">Add</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="name_of_exercise">Name of exercise</string>
+    <string name="of">of</string>
+    <string name="my_exercises">My Exercises</string>
+    <string name="info">Info</string>
+    <string name="infomation_text">Work Out is your fitness diary, where you can register your daily exercises and check them later.</string>
+    <string name="created_by">This app was created by:</string>
+    <string name="my_name" translatable="false">Marilia Machado Fernandez</string>
+    <string name="date">October, 2018.</string>
+    <string name="rights">All rights reserved.</string>
+    <string name="show_category">Category:</string>
+    <string name="show_duration">Duration:</string>
+    <string name="show_sets">Sets:</string>
+    <string name="show_repetitions">Repetitions:</string>
+    <string name="show_exercise">Exercise:</string>
+    <string name="exercise">Exercise</string>
+    <string name="duration_min">Duration (min)</string>
+    <string name="preferences">Preferences</string>
+    <string name="white">White</string>
+    <string name="blue">Blue</string>
+    <string name="gray">Gray</string>
+    <string name="black">Black</string>
+    <string name="item_deleted">Item deleted</string>
+    <string name="edit_exercise">Edit exercise</string>
+    <string name="alter">Alter</string>
+    <string name="error_fill_options">Error: Please fill all the options</string>
+</resources>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group
+        android:id="@+id/groupColors"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/menuItemGray"
+            android:icon="@android:color/darker_gray"
+            android:title="@string/gray"
+            app:showAsAction="never" />
+        <item
+            android:id="@+id/menuItemBlue"
+            android:icon="@android:color/holo_blue_bright"
+            android:title="@string/blue"
+            app:showAsAction="never" />
+        <item
+            android:id="@+id/menuItemWhite"
+            android:icon="@android:color/white"
+            android:title="@string/white"
+            app:showAsAction="never" />
+    </group>
+    <item
+        android:id="@+id/menuItemInfo"
+        android:icon="@android:drawable/ic_menu_info_details"
+        android:title="@string/info"
+        app:showAsAction="ifRoom" />
+</menu>
